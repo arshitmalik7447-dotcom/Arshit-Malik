@@ -1,0 +1,6 @@
+{
+  "name": "Tiona Assistant",
+  "description": "Embeddable customer support and product enquiry chatbot for Tiona Silver with WooCommerce catalogue integration, policy conflict handling, and lead capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
